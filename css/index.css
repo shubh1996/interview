@@ -1,0 +1,29 @@
+html{
+    /* #3494e6 */
+    /* #ec6ead */
+    background: linear-gradient(to right,#3494e6,#ec6ead,#3494e6); /* Standard syntax */
+    text-align: center;
+
+}
+
+.login{
+    position: absolute;
+    left: 30%;
+    top:30%;
+    text-align: center;
+    background-color: #555;
+    width:400px;
+    height:300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #000;
+    background: linear-gradient(to right,#ee0979,#ff6a00,#ee0979); /* Standard syntax */
+    
+    
+}
+.input_form{
+    width:70%;
+    margin-top: 5%;
+    height: 30px;
+
+    background: transparent;
+}
