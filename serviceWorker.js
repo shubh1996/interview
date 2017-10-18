@@ -1,7 +1,7 @@
 (function(){
 
-var CURRENT_CACHE = "bj";
-var initial_cache =['.','index.html','css/style.css','js/index.js','js/jquery-3.1.1.min.js','images/favicon.png'];
+var CURRENT_CACHE = "inter";
+var initial_cache =['.','index.html','css/style.css','js/jquery-3.1.1.min.js','js/index.js','images/favicon.png'];
 	self.addEventListener('install',event=>{
 		console.log('Installed service worker');
 		skipWaiting();
